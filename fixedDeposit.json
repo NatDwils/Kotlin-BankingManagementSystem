@@ -1,0 +1,29 @@
+[
+  {
+    "interest": 0.05,
+    "tenure": 3,
+    "depositBalance": 2000.0,
+    "fd_id": "b5e69698-7819-460e-9d42-2c0c969c4a8b"
+  },
+  {
+    "interest": 0.05,
+    "tenure": 3,
+    "depositBalance": 2000.0,
+    "fd_id": "d430ca52-f6c4-4bbc-8d40-9a2ff8549dcf",
+    "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec"
+  },
+  {
+    "interest": 0.05,
+    "tenure": 3,
+    "depositBalance": 2000.0,
+    "fd_id": "23c928aa-2f85-4ba5-b765-55cd010c8ba4",
+    "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec"
+  },
+  {
+    "interest": 0.05,
+    "tenure": 5,
+    "depositBalance": 200.0,
+    "fd_id": "26d7dded-3e09-4be5-bfc9-425d5ee699a7",
+    "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec"
+  }
+]

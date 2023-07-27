@@ -1,0 +1,22 @@
+[
+  {
+    "transaction_id": "e6a509c3-5f94-49c3-a299-43e42e1138b6",
+    "accountNumber": "33514a51-2149-4099-8481-e1c93d47b599",
+    "transactionType": "transfer",
+    "amount": 20000.0
+  },
+  {
+    "transaction_id": "ef018ccb-1509-4ba0-b5d4-f933ebdaacbc",
+    "accountNumber": "3f20cd3e-5625-41a0-a015-e673e23b04c8",
+    "transactionType": "transfer",
+    "amount": 200.0,
+    "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec"
+  },
+  {
+    "transaction_id": "b85ad309-23e5-4e75-a87b-874a11352ffb",
+    "accountNumber": "3f20cd3e-5625-41a0-a015-e673e23b04c8",
+    "transactionType": "transfer",
+    "amount": 200.0,
+    "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec"
+  }
+]

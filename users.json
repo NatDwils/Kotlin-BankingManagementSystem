@@ -1,0 +1,76 @@
+[
+  {
+    "user_id": "f946b6a5-3c0d-40d3-861a-e1b52bf8a6af",
+    "name": "ishika nimade",
+    "phone": "234567890",
+    "email": "ishikanimade@gmail.com",
+    "password": "ishika@123",
+    "isAdmin": true,
+    "accounts": [],
+    "isActive": true
+  },
+  {
+    "user_id": "25588924-588e-4646-a0d6-fb207e80a8d9",
+    "name": "ajit ",
+    "phone": "6785678",
+    "email": "ajit@gjh.in",
+    "password": "123E89",
+    "isAdmin": false,
+    "accounts": [
+      {
+        "accountNumber": "b9750abd-9a0f-426f-837f-7bcc737dbcd2",
+        "balance": 28200.0,
+        "type": "saving",
+        "user_id": "25588924-588e-4646-a0d6-fb207e80a8d9",
+        "isActive": true
+      },
+      {
+        "accountNumber": "33514a51-2149-4099-8481-e1c93d47b599",
+        "balance": 9980200.0,
+        "type": "current",
+        "user_id": "25588924-588e-4646-a0d6-fb207e80a8d9",
+        "isActive": true
+      }
+    ],
+    "isActive": false
+  },
+  {
+    "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec",
+    "name": "ishmit",
+    "phone": "+91 1234567890",
+    "email": "fdfsr@gjiu.in",
+    "password": "ishmit@123",
+    "isAdmin": false,
+    "accounts": [
+      {
+        "accountNumber": "3f20cd3e-5625-41a0-a015-e673e23b04c8",
+        "balance": 101200.0,
+        "type": "Saving",
+        "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec",
+        "isActive": false
+      },
+      {
+        "accountNumber": "9d417f7a-7348-4439-a27f-faabc99333b5",
+        "balance": 800.0,
+        "type": "saving",
+        "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec",
+        "isActive": true
+      },
+      {
+        "accountNumber": "0e573eb3-91fe-49d2-a553-949e164e6a98",
+        "balance": 2000.0,
+        "type": "current",
+        "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec",
+        "isActive": true
+      },
+      {
+        "accountNumber": "dfab0596-7472-421a-9fa4-de6411410731",
+        "balance": 5000.0,
+        "type": "current",
+        "user_id": "381f679f-d70d-4fb9-af75-e38ae4562bec",
+        "isActive": true
+      }
+    ],
+    "isActive": false
+  }
+]
